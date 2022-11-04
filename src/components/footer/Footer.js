@@ -6,8 +6,7 @@ function Footer() {
     <footer className="footerContainer">
       <div>
         <h3>
-          Vijay . All rights reserved under
-          section 20001-2202S-2802B.
+         Vijay Chauhan 
         </h3>
       </div>
     </footer>
